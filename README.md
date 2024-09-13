@@ -1,23 +1,20 @@
 # Linguistic-cognitive-game
 
-Hay tres modos de juego: 
+This game is in spanish.
 
-Modo normal: 
-Este modo de juego consiste en escribir la mayor cantidad de palabras en un minuto, dando enter a cada palabra
-que escribes, las palabras seran calificadas de nuestro banco de 1300 palabras aproximadamente por cada palabra correcta 
-se te dara un punto si esta mal escrita o no se encuentra en nuestro banco de palabras no se dara el punto.
+There are three game modes:
 
-Modo por cantidad: 
-Este modo de juego consiste en escribir la mayor cantidad de palabras en minuto con el numero de letras
-que se te sera proporcionado, por ejemplo: 4 (hola), 5 (adios); por cada palabra con la cantidad correcta de letras y que 
-se encuentre en nuestro banco de palabras se te dara un punto de lo contrario no recibirás ningún punto.
+Normal mode:
+This game mode consists of writing the most words in one minute, pressing enter for each word you write.
+The words will be scored from our bank of approximately 1300 words.
+For each correct word, you will be given a point if it is misspelled or is not in our word bank.
+You will not be given a point.
 
-Modo por inicial: 
-Este modo de juego consiste en que se te dara una letra aleatorio y deberas escribir la mayor cantidad de
-palabras en un minuto que inicien con la letra proporcionada, por ejemplo: “n” (nadar, numero, nueve); por cada palabra 
-correcta (que inicie con la letra dada) y que se encuentre en nuestro banco de palabras se te otorgará un punto de lo 
-contrario no recibirás ningun punto.
+Quantity mode:
+This game mode consists of writing the most words in one minute with the number of letters that will be provided to you, for example: 4 (hola), 5 (adios). For each word with the correct number of letters and that is in our word bank, you will be given a point, otherwise you will not receive any points.
 
+Initial mode:
+This game mode consists of giving you a random letter and you must write the most words in one minute that begin with the letter provided, for example: “n” (swim, number, nine); For each correct word (that starts with the given letter) that is in our word bank, you will be awarded one point; otherwise, you will not receive any points.
 
-Recuerda escribir las palabras en minúsculas y sin acentos, no escribir signos y si la palabra tiene una 'ñ' sustitúyelo
-con una 'n'.
+Remember to write the words in lowercase and without accents, do not write signs, and if the word has an 'ñ' replace it
+with an 'n'.
